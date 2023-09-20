@@ -10,5 +10,13 @@ export default {
             huge: '3rem',
             gigantic: '4rem',
         }  
-    }
+    },
+    colors: {
+        mainBg: '#000000',
+        lightBg: '#F2F2F2',
+        white: '#FFFFFF',
+        black: '#030517',
+        gray: '#222222',
+        yellow: '#FAFF00',
+      },
 } as const
