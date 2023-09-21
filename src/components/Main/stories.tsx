@@ -7,9 +7,6 @@ export default {
   component: Main,
   parameters: {
     layout: 'fullscreen'
-  },
-  argTypes: {
-    backgroundColor: { control: 'color' }
   }
 } as Meta
 

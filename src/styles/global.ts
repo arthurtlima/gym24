@@ -2,10 +2,10 @@ import { createGlobalStyle  } from 'styled-components';
 
 
 const GlobalStyles = createGlobalStyle`
-@font-face {
+  @font-face {
     font-family: 'MADE Outer Sans';
-    src: url('/fonts/MADEOuterSans-Light.woff2') format('woff2'),
-        url('/fonts/MADEOuterSans-Light.woff') format('woff');
+    src: url('../../public/fonts/MADEOuterSans-Light.woff2') format('woff2'),
+        url('../../public/fonts/MADEOuterSans-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -13,8 +13,8 @@ const GlobalStyles = createGlobalStyle`
   
   @font-face {
     font-family: 'MADE Outer Sans';
-    src: url('/fonts/MADEOuterSans-Medium.woff2') format('woff2'),
-        url('/fonts/MADEOuterSans-Medium.woff') format('woff');
+    src: url('../../public/fonts/MADEOuterSans-Medium.woff2') format('woff2'),
+        url('../../public/fonts/MADEOuterSans-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -22,8 +22,8 @@ const GlobalStyles = createGlobalStyle`
   
   @font-face {
     font-family: 'MADE Outer Sans';
-    src: url('/fonts/MADEOuterSans-Bold.woff2') format('woff2'),
-        url('/fonts/MADEOuterSans-Bold.woff') format('woff');
+    src: url('../../public/fonts/MADEOuterSans-Bold.woff2') format('woff2'),
+        url('../../public/fonts/MADEOuterSans-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
