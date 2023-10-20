@@ -82,4 +82,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 This project is under the license [MIT](./LICENSE).
 
-Made by Arthur Teodoro Alves de Lima 👋🏽 [Get in touch!](https://www.linkedin.com/in/arthurtlima/?locale=en_US)
+Made by Arthur Teodoro Alves de Lima 👋🏽 [Get in touch!](https://www.linkedin.com/in/arthurtlima/)
